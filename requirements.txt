@@ -1,6 +1,6 @@
 Cython==0.29.7
 -e git+https://github.com/Tom83B/matsim.git@f4e901e8983776c5a9b3a06b6a744f9c2765722f#egg=matsim
-numpy==1.16.3
+numpy==1.22.0
 pandas==0.24.2
 python-dateutil==2.8.0
 pytz==2019.1
